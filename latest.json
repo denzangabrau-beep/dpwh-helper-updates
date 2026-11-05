@@ -1,0 +1,15 @@
+{
+  "version": "0.2.16",
+  "date": "2026-11-05",
+  "notes": "smooth S-curve in the PDM",
+  "android": {
+    "file": "DPWH-Helper.apk",
+    "sha256": "4eef6e1d86bb1a2c9479712895365f8ff747dec942037409ad476074e4403f32",
+    "size": 52421913
+  },
+  "windows": {
+    "file": "DPWH-Helper-setup.exe",
+    "sha256": "cac9cc04b55f46990008e0c30b3fceb3d3bc20b731d1c0da58337a1c0d7b0cc9",
+    "size": 3639015
+  }
+}
