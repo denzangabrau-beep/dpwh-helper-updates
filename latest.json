@@ -1,0 +1,15 @@
+{
+  "version": "0.2.19",
+  "date": "2026-11-24",
+  "notes": "delete a draft variation order (#7)",
+  "android": {
+    "file": "DPWH-Helper.apk",
+    "sha256": "de4526687b1e54a440e6ee5123f899241b5be5db1ed08256674ae1a60b88aab1",
+    "size": 52428501
+  },
+  "windows": {
+    "file": "DPWH-Helper-setup.exe",
+    "sha256": "72fd3505ffbfc0ddb0f00739739fc2a7c93afb241234f035b4ebb80db8390bde",
+    "size": 3645197
+  }
+}
